@@ -1,0 +1,20 @@
+# Use the Nginx image from Docker Hub for the AMD64 architecture
+FROM --platform=linux/amd64 nginx:alpine
+
+# Remove the default nginx index page
+RUN rm -rf /usr/share/nginx/html/*
+
+# Copy the folder containing your HTML pages to the Nginx server directory
+COPY . /usr/share/nginx/html
+
+# Expose port 80
+EXPOSE 80
+
+# Start Nginx and keep it running in the foreground
+CMD ["nginx", "-g", "daemon off;"]
+
+
+# docker build -t alfolio -f DockerfileHost .
+# docker tag alfolio pavankoushik22/alfolio:v2
+# docker push pavankoushik22/alfolio:v2
+# docker run -d -p 80:80 pavankoushik22/alfolio:v2
