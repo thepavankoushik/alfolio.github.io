@@ -20,7 +20,5 @@ this page is expected to have all of my sketches on software, architecture, case
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/sketches/cicd.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/sketches/kms_rotation_algorithm.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/sketches/messageq.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-<swiper-slide>{% include figure.liquid loading="eager" path="assets/sketches/youtube.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/sketches/cloudcost.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-<swiper-slide>{% include figure.liquid loading="eager" path="assets/sketches/linktrack.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
