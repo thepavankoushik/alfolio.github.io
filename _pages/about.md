@@ -22,6 +22,6 @@ I am a Programmer, Developer, Software Architect, Researcher, Writer, Sports ent
 
 I am also interested in teaching and mentoring software developers. 
 
-I'm currently looking for new opportunities both Professional and Freelance. If you are interested in working with me, please feel free to contact me @ [LinkedIn](https://www.linkedin.com/in/thepavankoushik/).
+I'm currently an SDE II at AWS. If you are interested in working with me, please feel free to contact me @ [LinkedIn](https://www.linkedin.com/in/thepavankoushik/).
 
 Peace.

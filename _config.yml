@@ -178,6 +178,9 @@ collections:
   sketches:
     output: true
     permalink: /sketches/:path/
+  elsewhere:
+    output: true
+    permalink: /elsewhere/:path/
 
 announcements:
   enabled: false
